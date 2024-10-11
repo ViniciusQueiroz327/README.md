@@ -29,7 +29,7 @@
 
 | Pets | MyPokedex | MeuCurriculo |
 | --------- | --------- | --------- |
-| ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=Pets&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MyPokedex&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) | ![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MeuCurriculo&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) |
+|[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=Pets&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/Pets) | [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MyPokedex&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/MyPokedex) | [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusQueiroz327&repo=MeuCurriculo&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ViniciusQueiroz327/MeuCurriculo)|
 
 | GitFind | SiteMK | CalculadoraReact |
 | --------- | --------- | --------- |
