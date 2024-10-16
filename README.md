@@ -44,37 +44,42 @@
 
 <h3 align="center">HyperText Markup Language and Styles...</h3> 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" alt="Markdown" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" width=50px alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" width=50px alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Markdown-Light.svg" width=50px alt="Markdown" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/StyledComponents.svg" width=50px alt="Styled-Components" />
 </p>
 
 
 <h3 align="center">Programming languages...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" width=50px alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width=50px alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Light.svg" width=50px alt="Java" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Light.svg" width=50px alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/C.svg" width=50px alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CS.svg" width=50px alt="C#" />
 </p>
 
 <h3 align="center">Libraries and Frameworks...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Light.svg" width=50px alt="React.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/DotNet.svg" width=50px alt=".NET" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Npm-Light.svg" width=50px alt="npm" />
 </p>
 
 <h3 align="center">Operational Systems...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" alt="Windows" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Light.svg" width=50px alt="Windows" />
 </p>
 
 <h3 align="center">Tools...</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-  <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width=50px alt="GIT" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Light.svg" width=50px alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Figma-Light.svg" width=50px alt="Figma" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Light.svg" width=50px alt="Visual Studio Code" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Light.svg" width=50px alt="Node.js" />
 </p>
 
 <div align="center">
